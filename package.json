@@ -1,5 +1,5 @@
 {
-  "name": "seamless-immutable",
+  "name": "tune-seamless-immutable",
   "version": "6.1.1",
   "description": "Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.",
   "main": "src/seamless-immutable.js",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rtfeldman/seamless-immutable.git"
+    "url": "https://github.com/MobileAppTracking/tune-seamless-immutable"
   },
   "keywords": [
     "immutable"
@@ -39,12 +39,12 @@
   "author": "Richard Feldman",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/rtfeldman/seamless-immutable/issues"
+    "url": "https://github.com/MobileAppTracking/tune-seamless-immutable"
   },
   "jshintConfig": {
     "newcap": false,
     "validthis": true,
     "proto": true
   },
-  "homepage": "https://github.com/rtfeldman/seamless-immutable"
+  "homepage": "https://github.com/MobileAppTracking/tune-seamless-immutable"
 }
